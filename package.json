@@ -13,7 +13,7 @@
     "upgrade-all": "node scripts/upgradeAll"
   },
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "node-cmd": "^3.0.0",
     "ora": "^3.0.0",
     "semver": "^5.5.1"
